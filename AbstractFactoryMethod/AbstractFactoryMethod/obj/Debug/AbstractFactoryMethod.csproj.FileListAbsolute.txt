@@ -1,0 +1,5 @@
+/Users/nikitamakeev/Desktop/TMPS LABS/AbstractFactoryMethod/AbstractFactoryMethod/bin/Debug/AbstractFactoryMethod.exe
+/Users/nikitamakeev/Desktop/TMPS LABS/AbstractFactoryMethod/AbstractFactoryMethod/bin/Debug/AbstractFactoryMethod.pdb
+/Users/nikitamakeev/Desktop/TMPS LABS/AbstractFactoryMethod/AbstractFactoryMethod/obj/Debug/AbstractFactoryMethod.csprojAssemblyReference.cache
+/Users/nikitamakeev/Desktop/TMPS LABS/AbstractFactoryMethod/AbstractFactoryMethod/obj/Debug/AbstractFactoryMethod.exe
+/Users/nikitamakeev/Desktop/TMPS LABS/AbstractFactoryMethod/AbstractFactoryMethod/obj/Debug/AbstractFactoryMethod.pdb

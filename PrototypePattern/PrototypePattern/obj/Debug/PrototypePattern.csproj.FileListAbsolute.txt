@@ -1,0 +1,5 @@
+/Users/nikitamakeev/Desktop/TMPS LABS/PrototypePattern/PrototypePattern/bin/Debug/PrototypePattern.exe
+/Users/nikitamakeev/Desktop/TMPS LABS/PrototypePattern/PrototypePattern/bin/Debug/PrototypePattern.pdb
+/Users/nikitamakeev/Desktop/TMPS LABS/PrototypePattern/PrototypePattern/obj/Debug/PrototypePattern.csprojAssemblyReference.cache
+/Users/nikitamakeev/Desktop/TMPS LABS/PrototypePattern/PrototypePattern/obj/Debug/PrototypePattern.exe
+/Users/nikitamakeev/Desktop/TMPS LABS/PrototypePattern/PrototypePattern/obj/Debug/PrototypePattern.pdb

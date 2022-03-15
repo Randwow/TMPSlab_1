@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{99E3486D-37A5-4A27-96D8-803D683988B6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractFactoryMethod/Program.cs">
+    <Files>
+      <File FileName="AbstractFactoryMethod/Program.cs" Line="15" Column="26" />
+      <File FileName="AbstractFactoryMethod/Movement.cs" Line="6" Column="37" />
+      <File FileName="AbstractFactoryMethod/Autopilot.cs" Line="6" Column="44" />
+      <File FileName="AbstractFactoryMethod/AirPlane.cs" Line="8" Column="67" />
+      <File FileName="AbstractFactoryMethod/Car.cs" Line="7" Column="10" />
+      <File FileName="AbstractFactoryMethod/FlyMovement.cs" Line="9" Column="10" />
+      <File FileName="AbstractFactoryMethod/DriveMovement.cs" Line="8" Column="42" />
+      <File FileName="AbstractFactoryMethod/AbstractFactory.cs" Line="9" Column="1" />
+      <File FileName="AbstractFactoryMethod/TeslaModelS.cs" Line="5" Column="6" />
+      <File FileName="AbstractFactoryMethod/Plane_F_35.cs" Line="13" Column="38" />
+      <File FileName="AbstractFactoryMethod/Transport.cs" Line="19" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AbstractFactoryMethod" expanded="True">
+            <Node name="AbstractFactoryMethod" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AbstractFactoryMethod PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{956585D4-BDBD-4E5A-A4F1-E567CB2AA227}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FactoryMethod/CreditClass.cs">
+    <Files>
+      <File FileName="FactoryMethod/Program.cs" Line="16" Column="66" />
+      <File FileName="FactoryMethod/CreditClass.cs" Line="4" Column="12" />
+      <File FileName="FactoryMethod/MAIBCreditCard.cs" />
+      <File FileName="FactoryMethod/MICBCreditCard.cs" />
+      <File FileName="FactoryMethod/CardFactory.cs" Line="8" Column="2" />
+      <File FileName="FactoryMethod/ProCreditBankFactory.cs" />
+      <File FileName="FactoryMethod/MAIBCreditCardFactory.cs" />
+      <File FileName="FactoryMethod/MICBCreditCardFactory.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FactoryMethod" expanded="True">
+            <Node name="FactoryMethod" expanded="True">
+              <Node name="CreditClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FactoryMethod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

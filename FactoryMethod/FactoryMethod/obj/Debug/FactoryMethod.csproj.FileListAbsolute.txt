@@ -1,0 +1,5 @@
+/Users/nikitamakeev/Desktop/TMPS LABS/FactoryMethod/FactoryMethod/bin/Debug/FactoryMethod.exe
+/Users/nikitamakeev/Desktop/TMPS LABS/FactoryMethod/FactoryMethod/bin/Debug/FactoryMethod.pdb
+/Users/nikitamakeev/Desktop/TMPS LABS/FactoryMethod/FactoryMethod/obj/Debug/FactoryMethod.csprojAssemblyReference.cache
+/Users/nikitamakeev/Desktop/TMPS LABS/FactoryMethod/FactoryMethod/obj/Debug/FactoryMethod.exe
+/Users/nikitamakeev/Desktop/TMPS LABS/FactoryMethod/FactoryMethod/obj/Debug/FactoryMethod.pdb

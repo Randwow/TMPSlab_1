@@ -1,0 +1,5 @@
+/Users/nikitamakeev/Desktop/TMPS LABS/BuilderPattern/BuilderPattern/bin/Debug/BuilderPattern.exe
+/Users/nikitamakeev/Desktop/TMPS LABS/BuilderPattern/BuilderPattern/bin/Debug/BuilderPattern.pdb
+/Users/nikitamakeev/Desktop/TMPS LABS/BuilderPattern/BuilderPattern/obj/Debug/BuilderPattern.csprojAssemblyReference.cache
+/Users/nikitamakeev/Desktop/TMPS LABS/BuilderPattern/BuilderPattern/obj/Debug/BuilderPattern.exe
+/Users/nikitamakeev/Desktop/TMPS LABS/BuilderPattern/BuilderPattern/obj/Debug/BuilderPattern.pdb

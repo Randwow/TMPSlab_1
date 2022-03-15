@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{A9A2DA07-7746-4EF4-90DC-80547559FF41}|Default">
+  <MonoDevelop.Ide.ItemProperties.BuilderPattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BuilderPattern/AirPlane.cs">
+    <Files>
+      <File FileName="BuilderPattern/Program.cs" Line="23" Column="15" />
+      <File FileName="BuilderPattern/AirPlane.cs" Line="39" Column="96" />
+      <File FileName="BuilderPattern/WidthClass.cs" Line="6" Column="1" />
+      <File FileName="BuilderPattern/HeightClass.cs" Line="6" Column="47" />
+      <File FileName="BuilderPattern/CapacityOfTankClass.cs" Line="8" Column="2" />
+      <File FileName="BuilderPattern/NameOfPilotClass.cs" Line="6" Column="48" />
+      <File FileName="BuilderPattern/NumberOfRocketClass.cs" Line="6" Column="48" />
+      <File FileName="BuilderPattern/PlaneBuilder.cs" Line="7" Column="1" />
+      <File FileName="BuilderPattern/DirectorClass.cs" Line="14" Column="39" />
+      <File FileName="BuilderPattern/Plane_F-35.cs" Line="29" Column="93" />
+      <File FileName="BuilderPattern/Plane_Raptor.cs" Line="28" Column="93" />
+      <File FileName="BuilderPattern/Plane_B-2-Spirit.cs" Line="28" Column="93" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BuilderPattern" expanded="True">
+            <Node name="BuilderPattern" expanded="True">
+              <Node name="AirPlane.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{B21FE21D-BFFD-4ED6-B05F-3B6172F209F1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PrototypePattern/Program.cs">
+    <Files>
+      <File FileName="PrototypePattern/Program.cs" Line="10" Column="48" />
+      <File FileName="PrototypePattern/Point.cs" Line="9" Column="6" />
+      <File FileName="PrototypePattern/IButton.cs" Line="6" Column="25" />
+      <File FileName="PrototypePattern/ButtonPrototype.cs" Line="9" Column="1" />
+      <File FileName="PrototypePattern/Button.cs" Line="19" Column="98" />
+      <File FileName="PrototypePattern/ButtonManager.cs" Line="15" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PrototypePattern" expanded="True">
+            <Node name="PrototypePattern" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PrototypePattern PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

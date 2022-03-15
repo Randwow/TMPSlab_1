@@ -1,0 +1,5 @@
+/Users/nikitamakeev/Desktop/TMPS LABS/Singleton/Singleton/bin/Debug/Singleton.exe
+/Users/nikitamakeev/Desktop/TMPS LABS/Singleton/Singleton/bin/Debug/Singleton.pdb
+/Users/nikitamakeev/Desktop/TMPS LABS/Singleton/Singleton/obj/Debug/Singleton.csprojAssemblyReference.cache
+/Users/nikitamakeev/Desktop/TMPS LABS/Singleton/Singleton/obj/Debug/Singleton.exe
+/Users/nikitamakeev/Desktop/TMPS LABS/Singleton/Singleton/obj/Debug/Singleton.pdb
